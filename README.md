@@ -1,4 +1,4 @@
-# Unibuddy-Automation / Status (In Progress) 
+# Unibuddy-Automation / Status (Ready For Review) 
 Tools & Framework used: /Java ☕️ / Cucumber 🥒 / Selenium ✅
  
 Please replace the 'chromedriver-MacOS'.exe file located in 'src/main/drivers' with the appropriate chrome version based on your OS. 
@@ -15,10 +15,11 @@ Please replace the 'chromedriver-MacOS'.exe file located in 'src/main/drivers' w
              5. User sends a message in the chat window. ☑️          
 
 For reporting please visit 'target/' file of which you can find /HTML /jUnit & /JSON Files. 🚀
-
+<br>
 
 Kind regards, 
+<br>
+Wilson-D-Lee
 <br><br>
-Wilson-D-Lee<br>
-Test Automation 
-+44(0)7 305-095-007
+Test Automation Engineer
+<br>+44(0)7 305-095-007
