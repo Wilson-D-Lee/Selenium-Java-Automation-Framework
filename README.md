@@ -18,7 +18,7 @@ For reporting please visit 'target/' file of which you can find /HTML /jUnit & /
 
 
 Kind regards, 
-<br>
-Wilson-D-Lee
+<br><br>
+Wilson-D-Lee<br>
 Test Automation 
 +44(0)7 305-095-007
